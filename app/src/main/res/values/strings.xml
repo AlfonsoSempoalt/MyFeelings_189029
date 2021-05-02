@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFeelings_189029</string>
+    <string name="comoTeSientes">¿Cómo te sientes hoy?</string>
+    <string name="muyFeliz">Muy feliz</string>
+    <string name="feliz">Feliz</string>
+    <string name="neutral">Neutral</string>
+    <string name="triste">Triste</string>
+    <string name="muyTriste">Muy triste</string>
+    <string name="guardar">Guardar</string>
+
+</resources>
